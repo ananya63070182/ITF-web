@@ -7,7 +7,6 @@
         <h1>Ananya Jinapong</h1>
         <p>Pleng</p>
         <img src="bingsoo.jpg">
-        <img src="honeytoast.jpg">
         <br>
         <a href="https://www.spotify.com/th-th/">This is a link</a>
         
@@ -17,6 +16,7 @@
             <li>Ice-cream</li>
             <li>Pancake</li>
         </ul>
+        <img src="honeytoast.jpg">
         <br>
 
         <h3>เรื่องตลกที่จะเล่า</h3>
